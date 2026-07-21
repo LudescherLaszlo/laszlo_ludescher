@@ -1,2 +1,2 @@
 # laszlo_ludescher
-Tamas's changes
+Resolved conflict
